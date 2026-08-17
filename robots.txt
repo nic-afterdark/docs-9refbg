@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-wlsdkg.trans88.online/sitemap.xml
